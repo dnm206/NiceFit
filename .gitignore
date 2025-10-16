@@ -14,7 +14,6 @@ sysinfo.txt
 # Visual Studio files
 .vs/
 *.csproj
-*.sln
 *.user
 *.pidb
 *.suo
