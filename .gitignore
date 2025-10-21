@@ -11,12 +11,6 @@ Recordings/
 ExportedObj/
 sysinfo.txt
 
-# Visual Studio files
-.vs/
-*.user
-*.pidb
-*.suo
-*.unityproj
 
 # OS
 .DS_Store
