@@ -13,7 +13,6 @@ sysinfo.txt
 
 # Visual Studio files
 .vs/
-*.csproj
 *.user
 *.pidb
 *.suo
